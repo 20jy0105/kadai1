@@ -1,5 +1,15 @@
 # kadai1
-## kadai
-### kada
-#### kad
-先端IT字術課題１
+
+### sample
+
+<details><summary>詳細</summary>
+  本文</details>
+
+- [ ] ちぇっくなし
+- [x] ちぇっくあり
+
+```
+while(true) {
+  list.shuffle();
+}
+```
